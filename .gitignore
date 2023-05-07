@@ -1,0 +1,6 @@
+.clangd
+BUILD
+.mbed
+mbed
+.cache
+compile_commands.json
